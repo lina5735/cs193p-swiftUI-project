@@ -1,8 +1,6 @@
 # cs193p-swiftUI-project
 Projects for CS193p standford spring 2021 (https://cs193p.sites.stanford.edu/)
 
-1. SetGame: homework assignment 4 
-
 
 Preview: 
 
